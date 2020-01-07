@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  font-family: "Dancing Script", cursive;
+}
+
+h2 {
+  font-family: "Lato", sans-serif;
+}
+
+hr {
+  border: none;
+  border-bottom: dotted 10px lightgray;
+  width: 6%;
+}
+
+img {
+  width: 200px;
+}
+
+.topContainer {
+  color: white;
+  background-image: url("../img/stars.png");
+  background-repeat: no-repeat;
+  height: 550px;
+  padding-top: 300px;
+}
+
+.topContainer h1 {
+  font-size: 5rem;
+}
+
+.topContainer img {
+  width: 100%;
+  margin-bottom: -223px;
+  margin-top: 401px;
+}
+
+.midContainer {
+  padding-top: 50px;
+}
+
+.bowie {
+  border-radius: 50%;
+}
+
+.skills {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.fetch {
+  text-align: left;
+}
+
+.ball {
+  float: left;
+}
+
+.trip {
+  float: right;
+}
+
+.road {
+  text-align: right;
+}
+
+.wave {
+  width: 100%;
+  margin-bottom: -250px;
+}
+
+.contact {
+  background-color: #deeff3;
+  padding: 20px;
+}
